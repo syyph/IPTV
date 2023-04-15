@@ -1209,7 +1209,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰资讯
-http://39.135.148.130:6610/PLTV/88888910/224/3221226274/index.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰香港
