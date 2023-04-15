@@ -543,6 +543,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 group-title="NewTV,#genre#",黑莓电竞[1920*1080]
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+
 #EXTINF:-1 group-title="斗鱼,#genre#",【RM-点播】点播！模式-24H欢乐不断
 http://epg.112114.xyz/douyu/131977
 #EXTINF:-1 group-title="斗鱼,#genre#",【RM-轮播】轮播！模式-24H欢乐不断
@@ -565,30 +566,12 @@ http://epg.112114.xyz/douyu/7050342
 http://epg.112114.xyz/douyu/997925
 #EXTINF:-1 group-title="斗鱼,#genre#",少女与半妖
 http://epg.112114.xyz/douyu/7422897
-#EXTINF:-1 group-title="斗鱼,#genre#",宝可梦加油。感谢大家。
-http://epg.112114.xyz/douyu/9765742
 #EXTINF:-1 group-title="斗鱼,#genre#",星矢-燃烧吧我的小宇宙
 http://epg.112114.xyz/douyu/8458270
-#EXTINF:-1 group-title="斗鱼,#genre#",松开的手0.0
-http://epg.112114.xyz/douyu/10210568
-#EXTINF:-1 group-title="斗鱼,#genre#",浦饭幽游藏马飞影桑原
-http://epg.112114.xyz/douyu/9938431
-#EXTINF:-1 group-title="斗鱼,#genre#",✨妖精的直播间✨
-http://epg.112114.xyz/douyu/5960746
 #EXTINF:-1 group-title="斗鱼,#genre#",【天使点播】动漫直播间
 http://epg.112114.xyz/douyu/1487654
 #EXTINF:-1 group-title="斗鱼,#genre#",动漫二次元#补番推荐#
 http://epg.112114.xyz/douyu/9429545
-#EXTINF:-1 group-title="斗鱼,#genre#",【动画电影】童年回忆
-http://epg.112114.xyz/douyu/10395973
-#EXTINF:-1 group-title="斗鱼,#genre#",【星星动画】童年热血搞笑爱情
-http://epg.112114.xyz/douyu/4369939
-#EXTINF:-1 group-title="斗鱼,#genre#",【追忆】国语超清动画电影
-http://epg.112114.xyz/douyu/6449849
-#EXTINF:-1 group-title="斗鱼,#genre#",【动漫】24小时不间断动漫专场
-http://epg.112114.xyz/douyu/7493575
-#EXTINF:-1 group-title="斗鱼,#genre#",老爹:还有一件事
-http://epg.112114.xyz/douyu/7134757
 #EXTINF:-1 group-title="斗鱼,#genre#",开心锤锤，开心快乐每一天！
 http://epg.112114.xyz/douyu/9018297
 #EXTINF:-1 group-title="斗鱼,#genre#",舔狗波比的幸福生活
@@ -609,8 +592,6 @@ http://epg.112114.xyz/douyu/9455567
 http://epg.112114.xyz/douyu/9716515
 #EXTINF:-1 group-title="斗鱼,#genre#",铁头与橘子（每周更新一起看霸总）
 http://epg.112114.xyz/douyu/9450942
-#EXTINF:-1 group-title="斗鱼,#genre#",笑出腹肌动漫0
-http://epg.112114.xyz/douyu/8380708
 #EXTINF:-1 group-title="斗鱼,#genre#",【神剧】经典神剧
 http://epg.112114.xyz/douyu/3700024
 #EXTINF:-1 group-title="斗鱼,#genre#",【贝爷MAX厅】科幻动作经典喜剧
@@ -619,10 +600,6 @@ http://epg.112114.xyz/douyu/4332
 http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 group-title="斗鱼,#genre#",【女神金】60帧极致蓝光刀刀陪看
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 group-title="斗鱼,#genre#",【西游】由爱故生怨，怨恨交缠，那又何苦
-http://epg.112114.xyz/douyu/9518204
-#EXTINF:-1 group-title="斗鱼,#genre#",狄仁杰：想听听我的故事吗
-http://epg.112114.xyz/douyu/674441
 #EXTINF:-1 group-title="斗鱼,#genre#",【牛叔】N分钟带你看完大片
 http://epg.112114.xyz/douyu/2758565
 #EXTINF:-1 group-title="斗鱼,#genre#",【科幻Fans】精彩科幻影视，解说连连看
@@ -653,20 +630,12 @@ http://epg.112114.xyz/douyu/74374
 http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 group-title="斗鱼,#genre#",避风港影院
 http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1 group-title="斗鱼,#genre#",林林影院
-http://epg.112114.xyz/douyu/9652323
-#EXTINF:-1 group-title="斗鱼,#genre#",漫威电影
-http://epg.112114.xyz/douyu/4282654
 #EXTINF:-1 group-title="斗鱼,#genre#",恐怖经典
 http://epg.112114.xyz/douyu/1165374
 #EXTINF:-1 group-title="斗鱼,#genre#",华语电影
 http://epg.112114.xyz/douyu/3928
-#EXTINF:-1 group-title="斗鱼,#genre#",华语动作电影
-http://epg.112114.xyz/douyu/1504768
 #EXTINF:-1 group-title="斗鱼,#genre#",麓山迷踪
 http://epg.112114.xyz/douyu/4505431
-#EXTINF:-1 group-title="斗鱼,#genre#",高帧影片
-http://epg.112114.xyz/douyu/6763930
 
 #EXTINF:-1 group-title="连续剧,#genre#",超级电视剧
 http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
@@ -678,8 +647,6 @@ http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
 #EXTINF:-1 group-title="连续剧,#genre#",古装剧场
 http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="连续剧,#genre#",欢笑剧场
-http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="连续剧,#genre#",家庭剧场
 http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
 #EXTINF:-1 group-title="连续剧,#genre#",精品大剧
@@ -690,16 +657,15 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
 #EXTINF:-1 group-title="连续剧,#genre#",军旅剧场
 http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="连续剧,#genre#",七彩戏剧
-http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="连续剧,#genre#",精品纪录
 http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
 #EXTINF:-1 group-title="连续剧,#genre#",精品纪录
 http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰资讯
-http://39.135.148.130:6610/PLTV/88888910/224/3221226274/index.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰香港
@@ -823,6 +789,8 @@ http://2023.stream-link.org/live/926790469
 #EXTINF:-1 group-title="港澳台综合,#genre#",华视新闻
 http://2023.stream-link.org/live/215730961
 #EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
+http://103.68.63.37:8278/ctinews/playlist.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
 http://2023.stream-link.org/live/1552993665
 #EXTINF:-1 group-title="港澳台综合,#genre#",寰宇新闻台
 http://2023.stream-link.org/live/1212532853
@@ -861,6 +829,8 @@ http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台
+http://flv.mp4cdn.live/gt-key=0025874.php?id=13
+#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台
 http://2022.stream-link.org/live/1488149502
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -892,1038 +862,78 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",靖天国际台
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",纯享4K[3840*2160]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV2[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV2[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV2[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV3[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV3[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV4[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV5[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV5+[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV5+[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV6[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV6[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV7[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV7[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV7[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV8[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV8[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV9[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV9[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV10[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV10[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV10[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV11[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV12[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV12[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV13[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV14[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV14[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV14[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV15[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV16[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV16[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV17[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV17[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",CCTV17[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",中国教育1台[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",东南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",东南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",东方卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",东方卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",东方卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",北京卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",北京卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",北京卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",四川卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",天津卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",天津卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",天津卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",安徽卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",安徽卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",山东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",山东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",山东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",广东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",广东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",广东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",广西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",江苏卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",江苏卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",江苏卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",江西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",江西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",江西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",河北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",河南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",浙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",浙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",浙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",海南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",深圳卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",深圳卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",深圳卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",湖北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",湖北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",湖北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",湖南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",湖南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",湖南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",贵州卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",辽宁卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",辽宁卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",辽宁卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",重庆卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",重庆卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",重庆卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑龙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑龙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",黑龙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",上海纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",上海纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",上海纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",北京纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",北京纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",快乐垂钓[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",茶频道[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",金鹰纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV东北热剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV中国功夫[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV军事评论[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV军旅剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV农业致富[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV古装剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV家庭剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV怡伴健康[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV明星大片[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV欢乐剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV武搏世界[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV海外剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV潮妈辣婆[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV炫舞未来[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV精品体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV精品大剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV精品纪录[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级电视剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级电视剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级综艺[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV超级综艺[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",NewTV金牌综艺[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑莓动画[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑莓电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑莓电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑莓电竞[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑莓电竞[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",黑莓电竞[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
-#EXTINF:-1 group-title="江西移动,#genre#",江西少儿[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",江西教育[1047*576]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西移动,#genre#",江西新闻[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 group-title="广东联通,#genre#",广州综合
+http://my.mytvtv.top/guangdong/gztv.php?id=gzzh
+#EXTINF:-1 group-title="广东联通,#genre#",广州新闻
+http://my.mytvtv.top/guangdong/gztv.php?id=gzxw
+#EXTINF:-1 group-title="广东联通,#genre#",广州法治
+http://my.mytvtv.top/guangdong/gztv.php?id=gzfz
+#EXTINF:-1 group-title="广东联通,#genre#",广州生活
+http://my.mytvtv.top/guangdong/gztv.php?id=gzsh
+#EXTINF:-1 group-title="广东联通,#genre#",广州影视
+http://my.mytvtv.top/guangdong/gztv.php?id=gzys
+#EXTINF:-1 group-title="广东联通,#genre#",广州竞赛
+http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
+#EXTINF:-1 group-title="广东联通,#genre#",广东珠江
+http://113.86.204.68:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东民生
+http://113.86.204.68:808/hls/18/index.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东新闻
+http://113.86.204.68:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东体育
+http://113.86.204.68:808/hls/21/index.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东影视
+http://157.122.177.10:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东体育
+http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",嘉佳卡通
+http://157.122.177.10:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东房产
+http://157.122.177.10:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",岭南戏曲
+http://157.122.177.10:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东少儿
+http://157.122.177.10:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东珠江
+http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东新闻
+http://157.122.177.10:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",广东民生
+http://157.122.177.10:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",经济科教
+http://157.122.177.10:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="广东联通,#genre#",汕头新闻综合频道
+http://120.234.220.107:9000/rtp/239.21.0.101:3744
+#EXTINF:-1 group-title="广东联通,#genre#",汕头经济生活频道
+http://120.234.220.107:9000/rtp/239.21.0.102:3748
+#EXTINF:-1 group-title="广东联通,#genre#",汕头体育文化频道
+http://120.234.220.107:9000/rtp/239.21.0.103:3752
+#EXTINF:-1 group-title="广东联通,#genre#",南国都市
+https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 group-title="广东联通,#genre#",香港有線新聞
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",华语电视1
-http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",华语电视2
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",华语电视3
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 group-title="广东联通,#genre#",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 group-title="广东联通,#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="广东联通,#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-#EXTINF:-1 group-title="广东联通,#genre#",TVBS新闻台
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东森美洲卫视
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
-#EXTINF:-1 group-title="广东联通,#genre#",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="广东联通,#genre#",耀才财经
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",延边卫视
-http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东方卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",辽宁卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑龙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",安徽卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",深圳卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",天津卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",重庆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",冬奥纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221226221/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV2[1920*1080]
-http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV2[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV3[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV3[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV3[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV4[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV5[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV5+[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV5+[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV6[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV6[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV7[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV7[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV8[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV8[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV9[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV9[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV10[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV10[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV11[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV12[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV12[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV13[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV13[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV14[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV14[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV15[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV16[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221226230/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV16[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV17[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV17[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV17[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东方卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖南卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",安徽卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",深圳卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",天津卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑龙江卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖北卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖北卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",辽宁卫视[1920*1080]
-http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东方卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖南卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东南卫视[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",安徽卫视[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",辽宁卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",重庆卫视[1920*1080]
-http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖南卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东方卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",深圳卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",深圳卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",天津卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",天津卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225697/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖北卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖北卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑龙江卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑龙江卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",安徽卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",安徽卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",辽宁卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东南卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",重庆卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225692/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",重庆卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",四川卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",河北卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",河南卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",贵州卫视[1920*1080]
-http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",苏州4k
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",南京少儿[1280*720]
-http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",浙江少儿[1920*1080]
-http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-#EXTINF:-1 group-title="广东联通,#genre#",小猪佩奇
-http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",14台少儿
-http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
-#EXTINF:-1 group-title="广东联通,#genre#",北京卡酷少儿
-http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
-#EXTINF:-1 group-title="广东联通,#genre#",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="广东联通,#genre#",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
-#EXTINF:-1 group-title="广东联通,#genre#",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
-#EXTINF:-1 group-title="广东联通,#genre#",南京少儿
-http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",江西少儿家庭
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
-#EXTINF:-1 group-title="广东联通,#genre#",韩国EBS少儿童
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 group-title="广东联通,#genre#",优漫卡通
-http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",优漫卡通
-http://39.135.138.58:18890/ysten-businessmobile/live/youmankaton/1.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",江苏靓妆
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225509/2/index.m3u8?fmt=ts2hls?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",南京教科
-http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",南京生活
-http://live.nbs.cn/channels/njtv/shpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",南京娱乐
-http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",南京十八
-http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",南京信息
-http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",苏州4k
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",盐城新闻综合
-http://stream.0515yc.cn/yctv1/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",盐城法制生活
-http://stream.0515yc.cn/yctv2/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",盐城城市公共
-http://stream.0515yc.cn/yctv3/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",淮安新闻综合
-http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",淮安公共频道
-http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",淮安影院娱乐
-http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡新闻综合
-http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡新闻综合
-http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡娱乐
-http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡娱乐
-http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡都市资讯
-http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡都市资讯
-http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡生活
-http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡生活
-http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡经济
-http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",无锡经济
-http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",张家港新闻综合
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",张家港民生频道
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",滨海新闻综合
-http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",大丰公共频道
-http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",东台综合频道
-http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",盐都综合频道
-http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",如东新闻综合
-http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",溧水新闻综合
-http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",溧水影院娱乐
-http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",铜山综合频道
-http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",铜山三农频道
-http://stream.tstvxmt.com/ts3/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",宜兴新闻频道
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",宜兴紫砂频道
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",淮阴综合频道
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",淮阴影院频道
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",金湖新闻综合
-http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",金坛新闻频道
-http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",海安新闻综合
-http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",泗洪新闻综合
-http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",常熟新闻频道
-http://play-live.21cs.cn/tv_channel/cstv1.m3u8?auth_key=1592026485-f871ffb1e3b646d59dba799b1e6f3d61-0-53bbc432233cf87b39a6ec67a23981c3?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",常熟民生频道
-http://play-live.21cs.cn/tv_channel/cstv2.m3u8?auth_key=1608898309-c151073d455d41568920a185f794ce70-0-24c93261a31cc28cf1ae2aced18ae008?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",睢宁综合频道
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",睢宁生活教育
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",睢宁三农频道
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",睢宁资讯频道
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",沭阳综合频道
-http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",东海新闻频道
-http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",高邮综合频道
-http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",仪征新闻综合
-http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",仪征生活频道
-http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",贾汪新闻频道
-http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",泗阳综合频道
-http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",泗阳资讯频道
-http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
-#EXTINF:-1 group-title="广东联通,#genre#",纯享4K[3840*2160]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV1[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV2[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV2[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV2[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV3[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV3[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV4[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV5[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV5+[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV5+[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV6[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV7[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV7[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV7[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV8[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV8[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV9[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV9[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV10[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV10[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV10[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV11[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV12[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV12[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV13[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV14[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV14[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV14[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV15[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV16[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV16[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV17[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV17[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",CCTV17[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",中国教育1台[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",东南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",东方卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",东方卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",东方卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",北京卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",四川卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",天津卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",天津卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",天津卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",安徽卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",安徽卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",山东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",广东卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",广西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",江苏卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",河北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",河南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",浙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",海南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",深圳卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",深圳卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",深圳卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",湖北卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",湖南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",湖南卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",贵州卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",辽宁卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",辽宁卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",辽宁卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",重庆卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",重庆卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",重庆卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑龙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑龙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",黑龙江卫视[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",上海纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",上海纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",上海纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",北京纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",快乐垂钓[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",茶频道[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",金鹰纪实[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV东北热剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV中国功夫[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV军事评论[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV军旅剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV农业致富[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV古装剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV家庭剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV怡伴健康[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV明星大片[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV欢乐剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV武搏世界[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV海外剧场[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV潮妈辣婆[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV炫舞未来[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV精品体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV精品大剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级体育[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级电视剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级电视剧[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级综艺[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV超级综艺[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",NewTV金牌综艺[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑莓动画[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑莓电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑莓电影[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑莓电竞[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑莓电竞[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",黑莓电竞[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
-#EXTINF:-1 group-title="广东联通,#genre#",江西少儿[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",江西教育[1047*576]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",江西新闻[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="广东联通,#genre#",江西经济生活[1920*1080]
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="上海综合,#genre#",新视觉
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",魅力足球
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",欢笑剧场
-http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",法治天地
-http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",上视新闻
 https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 group-title="上海综合,#genre#",上海都市
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",上海教育
-http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",极速汽车
-http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",全纪实
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",幸福彩
-http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",动漫秀场
 http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",七彩戏剧
-http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",东方财经
-http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",上视外语
-http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",金山电视台
 http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
+
 #EXTINF:-1 group-title="浙江综合,#genre#",浙江钱江都市
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江综合,#genre#",浙江钱江都市
@@ -1986,18 +996,8 @@ http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 #EXTINF:-1 group-title="浙江综合,#genre#",舟山群岛旅游
 http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="浙江综合,#genre#",湖州新闻综合
-http://live.plus.hugd.com/xwzhpd/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="浙江综合,#genre#",湖州公共民生
-http://live1.plus.hugd.com/ggpd1/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="浙江综合,#genre#",湖州文化娱乐
-http://live.plus.hugd.com/whylpd/sd/live.m3u8?zzhed
-#EXTINF:-1 group-title="浙江综合,#genre#",嘉兴新闻综合
-http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8?zzhed
 #EXTINF:-1 group-title="浙江综合,#genre#",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江综合,#genre#",永康新闻综合
-http://hlsv2.quklive.com/live/1625061424267104/index.m3u8?zzhed
 #EXTINF:-1 group-title="浙江综合,#genre#",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江综合,#genre#",平湖民生休闲
@@ -2028,12 +1028,11 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江综合,#genre#",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+
 #EXTINF:-1 group-title="江苏综合,#genre#",优漫卡通
 http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",优漫卡通
 http://39.135.138.58:18890/ysten-businessmobile/live/youmankaton/1.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏综合,#genre#",江苏靓妆
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225509/2/index.m3u8?fmt=ts2hls?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",盐城新闻综合
@@ -2053,11 +1052,7 @@ http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",无锡新闻综合
 http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",无锡娱乐
-http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏综合,#genre#",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏综合,#genre#",无锡都市资讯
-http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",无锡都市资讯
 http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",无锡生活
@@ -2070,8 +1065,6 @@ http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8?zjiangsd
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏综合,#genre#",张家港民生频道
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",滨海新闻综合
 http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",大丰公共频道
@@ -2106,10 +1099,6 @@ http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",泗洪新闻综合
 http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏综合,#genre#",常熟新闻频道
-http://play-live.21cs.cn/tv_channel/cstv1.m3u8?auth_key=1592026485-f871ffb1e3b646d59dba799b1e6f3d61-0-53bbc432233cf87b39a6ec67a23981c3?zjiangsd
-#EXTINF:-1 group-title="江苏综合,#genre#",常熟民生频道
-http://play-live.21cs.cn/tv_channel/cstv2.m3u8?auth_key=1608898309-c151073d455d41568920a185f794ce70-0-24c93261a31cc28cf1ae2aced18ae008?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",睢宁生活教育
@@ -2134,12 +1123,9 @@ http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",泗阳资讯频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
+
 #EXTINF:-1 group-title="山东综合,#genre#",中华美食
 http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
-#EXTINF:-1 group-title="山东综合,#genre#",济南教育
-http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
-#EXTINF:-1 group-title="山东综合,#genre#",济南鲁中
-https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
 #EXTINF:-1 group-title="山东综合,#genre#",青岛城阳
 http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 #EXTINF:-1 group-title="山东综合,#genre#",日照新闻综合
@@ -2174,14 +1160,11 @@ http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
 http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
 #EXTINF:-1 group-title="山东综合,#genre#",东营科教
 http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
-#EXTINF:-1 group-title="山东综合,#genre#",滨州新闻综合
-http://stream.bzcm.net/2/sd/live.m3u8?shandd
-#EXTINF:-1 group-title="山东综合,#genre#",滨州公共
-http://stream.bzcm.net/1/sd/live.m3u8?shandd
 #EXTINF:-1 group-title="山东综合,#genre#",青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
 #EXTINF:-1 group-title="山东综合,#genre#",青州文化旅游
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
+
 #EXTINF:-1 group-title="湖南综合,#genre#",金鹰纪实
 http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8?zhund
 #EXTINF:-1 group-title="湖南综合,#genre#",湘潭新闻综合
@@ -2196,10 +1179,7 @@ http://59.51.68.40:1936/live/2.stream/playlist.m3u8?zhund
 http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
 #EXTINF:-1 group-title="湖南综合,#genre#",衡阳公共频道
 http://59.51.68.40:1936/live/3.stream/playlist.m3u8?zhund
-#EXTINF:-1 group-title="湖南综合,#genre#",云溪新闻综合
-http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
-#EXTINF:-1 group-title="湖南综合,#genre#",洪江市综合
-http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8?zhund
+
 #EXTINF:-1 group-title="四川综合,#genre#",南充新闻
 http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",南充公共
@@ -2208,12 +1188,7 @@ http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv?zsicd
 http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
 #EXTINF:-1 group-title="四川综合,#genre#",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",雅安新闻综合
-http://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",雅安公共
-http://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",雅安雨城
-http://m3u8channel-yc.wuxianyaan.com/cms/videos/nmip-media-yc/channellive/channel1/playlist.m3u8?zsicd
+
 #EXTINF:-1 group-title="四川综合,#genre#",广元综合
 http://tv.dzsm.com:8100/chan/ch1.flv?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",广元综合
@@ -2244,8 +1219,6 @@ http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
 http://live.newslqy.com/live/xwpd.m3u8?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",双流综合
 http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",筠连综合
-http://118.122.78.172:89/live1/live1.m3u8?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",叙州新闻综合
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",大竹新闻综合
@@ -2288,16 +1261,8 @@ http://112.45.133.129:90/live/xwzh.m3u8?zsicd
 http://live.schdxww.com:90/live/xwzh.m3u8?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",石渠综合
 http://tv.drs.ganzitv.com:8100/channellive/shiqu.flv?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",宝兴综合
-http://m3u8channel-bx.wuxianyaan.com/cms/videos/nmip-media-bx/channellive/channel11/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",汉源综合
 http://live.hyxrmt.com:85/live/xwpd.m3u8?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",名山综合
-http://m3u8channel-ms.wuxianyaan.com/cms/videos/nmip-media-ms/channellive/channel1/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",石棉综合
-http://m3u8channel-sm.wuxianyaan.com/cms/videos/nmip-media-sm/channellive/channel1/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="四川综合,#genre#",荥经综合
-http://m3u8channel-yj.wuxianyaan.com/cms/videos/nmip-media-yj/channellive/channel1/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",峨边电视台
 http://tvfile.ebrm.lsrm.org.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
 #EXTINF:-1 group-title="四川综合,#genre#",夹江新闻综合
@@ -2310,6 +1275,7 @@ http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsi
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="四川综合,#genre#",武胜综合
 http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
+
 #EXTINF:-1 group-title="安徽综合,#genre#",宿州公共
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",芜湖新闻综合
@@ -2320,14 +1286,6 @@ http://live1.wuhubtv.com/channel2/sd/live.m3u8?zanhd
 http://live1.wuhubtv.com/channel3/sd/live.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",芜湖教育
 http://live1.wuhubtv.com/channel4/sd/live.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",安庆公共
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-aqggpd/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",安庆教育
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-aqhmx-jy/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",六安新闻综合
-http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",六安公共
-http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",淮南新闻综合
 http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",淮南公共
@@ -2338,52 +1296,15 @@ http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
 http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",滁州公共
 http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",枞阳综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-zystv/1.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",南陵新闻综合
 http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",湾沚区新闻综合
-http://60.169.39.215:8090/live/ch0.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",定远综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-czdy1pd/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",阜南新闻综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-fnxwzh/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",临泉新闻
-http://120.210.216.73:8080/ysten-business/live/SD20-576P-linquan/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",东至新闻综合
-http://120.210.216.73:8080/ysten-business/live/HD12-1080P-czdzzh/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",东至新闻综合
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",来安综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-czla1pd/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",全椒综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-qjzhpd/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",全椒生活
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-qjshpd/1.m3u8
-#EXTINF:-1 group-title="安徽综合,#genre#",石台综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-czst/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",休宁新闻综合
-http://120.210.216.73:8080/ysten-business/live/hsxndst/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",黟县综合
-http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",黟县综合
-http://114.104.147.15:1935/live/yixian/playlist.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",灵璧综合
 http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",凤台综合
-http://111.39.175.241:8088/live/fengtai1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",霍邱新闻综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8?zanhd
 #EXTINF:-1 group-title="安徽综合,#genre#",金寨综合
 http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",肥东经济生活
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-fdjjsh/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",肥西综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-fxxwzh/1.m3u8?zanhd
-#EXTINF:-1 group-title="安徽综合,#genre#",潜山新闻综合
-http://60.171.171.101:8278/rtmp_export/video22.m3u8?zanhd
+
 #EXTINF:-1 group-title="河南综合,#genre#",河南都市
 http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 #EXTINF:-1 group-title="河南综合,#genre#",河南民生
@@ -2397,11 +1318,8 @@ http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zh
 #EXTINF:-1 group-title="河南综合,#genre#",睛彩焦作频道
 http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
 #EXTINF:-1 group-title="河南综合,#genre#",鹤壁综合频道
-http://pili-live-hls.hebitv.com/hebi/hebi.m3u8?zhend沁阳新闻综合,http://live.qinyangtv.com:82/channel1/sd/live.m3u8?zhend
-#EXTINF:-1 group-title="河南综合,#genre#",沁阳文化旅游
-http://live.qinyangtv.com:82/channel2/sd/live.m3u8?zhend
-#EXTINF:-1 group-title="福建综合,#genre#",龙岩新闻综合
-http://live.lytv.net.cn/zhpwd/hd/live.m3u8?zfud
+http://pili-live-hls.hebitv.com/hebi/hebi.m3u8?zhend
+
 #EXTINF:-1 group-title="福建综合,#genre#",龙岩新闻综合
 http://stream.lytv.net.cn/2/sd/live.m3u8?zfud
 #EXTINF:-1 group-title="福建综合,#genre#",龙岩公共频道
@@ -2428,6 +1346,7 @@ http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 #EXTINF:-1 group-title="福建综合,#genre#",漳浦综合
 http://220.161.87.62:8090/hls/0/index.m3u8?zfud
+
 #EXTINF:-1 group-title="河北综合,#genre#",河北农民
 https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 group-title="河北综合,#genre#",石家庄新闻综合
@@ -2440,20 +1359,10 @@ http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 #EXTINF:-1 group-title="河北综合,#genre#",鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 group-title="江西综合,#genre#",江西都市
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls?zjiangxd
-#EXTINF:-1 group-title="江西综合,#genre#",江西影旅游
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls?zjiangxd
-#EXTINF:-1 group-title="江西综合,#genre#",江西公共农业
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls?zjiangxd
-#EXTINF:-1 group-title="江西综合,#genre#",江西新闻
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225576/2/index.m3u8?fmt=ts2hls?zjiangxd
-#EXTINF:-1 group-title="江西综合,#genre#",江西教育
-http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226197/2/index.m3u8?fmt=ts2hls?zjiangxd赣州新闻综合,http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8?zjiangxd
+
 #EXTINF:-1 group-title="江西综合,#genre#",瑞金综合频道
 http://live.mudu.tv/watch/u2udf0.m3u8?zjiangxd
-#EXTINF:-1 group-title="江西综合,#genre#",鄱阳综合
-http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8?zjiangxd
+
 #EXTINF:-1 group-title="湖北综合,#genre#",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 #EXTINF:-1 group-title="湖北综合,#genre#",仙桃生活文体
@@ -2464,10 +1373,9 @@ http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8?zhubd
 http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
 #EXTINF:-1 group-title="湖北综合,#genre#",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-#EXTINF:-1 group-title="湖北综合,#genre#",江夏经济生活
-http://59.175.226.142:280/gb28181/jjsh.m3u8?zhubd
 #EXTINF:-1 group-title="湖北综合,#genre#",郧阳新闻综合
 http://58.19.198.159:2021/hls1.m3u8?zhubd
+
 #EXTINF:-1 group-title="广西综合,#genre#",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 #EXTINF:-1 group-title="广西综合,#genre#",南宁影娱乐
