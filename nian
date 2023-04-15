@@ -849,6 +849,10 @@ http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 http://39.135.148.130:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台1
 http://live.cooltv.top/tv/good.php?id=1350_4500
+#EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台2
+http://209.146.124.7:7788/net/index.php?id=8
+#EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台3
+http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="港澳台综合,#genre#",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",星卫电影台
@@ -943,8 +947,7 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台
-http://r.jdshipin.com/62WM7
+
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠财经台
 http://43.128.40.42:2212/tvb.php?id=3&hq
 #EXTINF:-1 group-title="港澳台综合,#genre#",明珠台
