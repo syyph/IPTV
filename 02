@@ -1,66 +1,47 @@
 #EXTM3U
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV1HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV1 Max16M1080
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV2HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226915/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV2 Max16M1080
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV3HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV4HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV4备用
+
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV4
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
 #EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV4 Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV5HD-8M
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV5
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV5+HD-8M
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV5+
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
 #EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV5+ Max16M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV6HD-8M
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227137/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-7HD-8M
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-8 HD-8M
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227174/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-9HD-8M
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV10HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226976/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV11HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226927/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV11HD-8M备
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV12HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226931/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV13HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV13HD-8M备
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV14HD-8M
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225494/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV15HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV16HD8M
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-7
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-9
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV10
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV11
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV12
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225495/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV13
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV14
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV15
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV16
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV16 4K-25M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV16 HDR4K-50P-35M
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV17HD-8M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-4K
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV-4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 group-title="央卫IPV6,#genre#",纯享4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?
-#EXTINF:-1 group-title="央卫IPV6,#genre#",纯享4K
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="央卫IPV6,#genre#",CCTV17
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
 #EXTINF:-1 group-title="央卫IPV6,#genre#",欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央卫IPV6,#genre#",爱上4K
@@ -71,14 +52,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央卫IPV6,#genre#",南国4K
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-#EXTINF:-1 group-title="央卫IPV6,#genre#",芒果4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/1.m3u8?servicetype=1
 #EXTINF:-1 group-title="央卫IPV6,#genre#",百事通4K测试
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 group-title="央卫IPV6,#genre#",纯享4K-15M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央卫IPV6,#genre#",纯享4K-15M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/1.m3u8?servicetype=1
 #EXTINF:-1 group-title="央卫IPV6,#genre#",1080P芒果测试
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001015000000285865/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央卫IPV6,#genre#",4K测试频道1
@@ -129,14 +104,8 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000219/index.m3u8?IAS
 #EXTINF:-1 group-title="央卫IPV6,#genre#",CETV3
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000221/index.m3u8?IAS
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CETV2
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227206/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CETV1
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央卫IPV6,#genre#",CETV1
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?IAS
-#EXTINF:-1 group-title="央卫IPV6,#genre#",CETV1
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="央卫IPV6,#genre#",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央卫IPV6,#genre#",凤凰资讯
