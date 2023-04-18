@@ -1182,6 +1182,8 @@ http://live.cooltv.top/tv/good.php?id=1350_4500
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台2
 http://209.146.124.7:7788/net/index.php?id=8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台3
+http://162.19.247.76:22222/live/tvbfc/index.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台4
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="港澳台综合,#genre#",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -1213,8 +1215,6 @@ http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台综合,#genre#",HBO強檔鉅獻
-mitv://generationnexxxt.com:19806/7abe506274d0439e9dcd6c411f663e46
 #EXTINF:-1 group-title="港澳台综合,#genre#",大爱
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",大爱
