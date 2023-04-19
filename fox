@@ -1466,6 +1466,16 @@ http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",金山电视台
 http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
 
+#EXTINF:-1 group-title="浙江综合,#genre#",杭州综合
+http://183.129.242.178:3333/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="浙江综合,#genre#",杭州明珠
+http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="浙江综合,#genre#",杭州生活
+http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="浙江综合,#genre#",杭州影视
+http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="浙江综合,#genre#",杭州体育
+http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 #EXTINF:-1 group-title="浙江综合,#genre#",浙江钱江都市
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江综合,#genre#",浙江钱江都市
