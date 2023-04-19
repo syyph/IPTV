@@ -399,7 +399,7 @@ http://60.167.226.213/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlis
 #EXTINF:-1 group-title="央卫线路一,#genre#",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 group-title="央卫线路一,#genre#",凤凰资讯
-http://39.135.148.130:6610/PLTV/88888910/224/3221226274/index.m3u8
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 group-title="央卫线路一,#genre#",凤凰香港
 http://39.135.148.130:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="央卫线路一,#genre#",中国教育1
