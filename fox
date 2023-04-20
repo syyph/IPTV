@@ -1192,7 +1192,7 @@ http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰香港
 http://39.135.148.130:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台1
-https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
+https://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台2
 http://162.19.247.76:22222/live/tvbfc/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台3
@@ -1358,9 +1358,9 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台
-http://flv.mp4cdn.live/gt-key=0025874.php?id=13
-#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台
+#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台1
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台2
 http://2022.stream-link.org/live/1488149502
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
