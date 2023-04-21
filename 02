@@ -376,7 +376,7 @@ http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰资讯
 http://flv.mp4cdn.live/gt-key=00569874.php?id=183
 #EXTINF:-1 group-title="央卫线路一,#genre#",凤凰香港
-http://39.135.148.130:6610/PLTV/88888910/224/3221226251/index.m3u8
+http://120.84.97.44:808/hls/81/index.m3u8
 #EXTINF:-1 group-title="央卫线路一,#genre#",中国教育1
 http://60.167.226.213/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8?CONTENTID=00000110240302_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 #EXTINF:-1 group-title="央卫线路一,#genre#",CGTN1
@@ -1177,10 +1177,10 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",凤凰资讯
 http://flv.mp4cdn.live/gt-key=00569874.php?id=183
+#EXTINF:-1 group-title="港澳台综合,#genre#",凤凰香港
+http://120.84.97.44:808/hls/81/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="港澳台综合,#genre#",凤凰香港
-http://39.135.148.130:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台1
 https://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台2
