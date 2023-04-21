@@ -498,6 +498,8 @@ http://epg.112114.xyz/douyu/6763930
 http://epg.112114.xyz/douyu/6537888
 #EXTINF:-1 group-title="影视综合,#genre#",小九电影
 http://epg.112114.xyz/douyu/7136517
+#EXTINF:-1 group-title="体育+4K频道,#genre#",山东体育
+http://27.202.3.211:9901/tsfile/live/1073_1.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",纬来体育
 http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",五星体育
@@ -1322,6 +1324,31 @@ http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏综合,#genre#",泗阳资讯频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
+
+#EXTINF:-1 group-title="山东综合,#genre#",山东少儿
+http://27.202.3.211:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东影视
+http://27.202.3.211:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东综艺
+http://27.202.3.211:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东生活
+http://27.202.3.211:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东体育
+http://27.202.3.211:9901/tsfile/live/1073_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东农科
+http://27.202.3.211:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东公共
+http://27.202.3.211:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东齐鲁
+http://27.202.3.211:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东卫视
+http://27.202.3.211:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",山东国际
+http://27.202.3.211:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",东营公共
+http://27.202.3.211:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="山东综合,#genre#",东营综合
+http://27.202.3.211:9901/tsfile/live/1009_1.m3u8
 
 #EXTINF:-1 group-title="山东综合,#genre#",中华美食
 http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
