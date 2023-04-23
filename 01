@@ -1217,6 +1217,42 @@ http://r.jdshipin.com/ndGgS
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023041723016.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合,#genre#",Viu TV6
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港澳台综合,#genre#",翡翠财经体育资讯
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=7
+#EXTINF:-1 group-title="港澳台综合,#genre#",香港有线18台
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=12
+#EXTINF:-1 group-title="港澳台综合,#genre#",香港有线体育台
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=14
+#EXTINF:-1 group-title="港澳台综合,#genre#",香港有线603台
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=13
+#EXTINF:-1 group-title="港澳台综合,#genre#",NOW新闻
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=17
+#EXTINF:-1 group-title="港澳台综合,#genre#",HOY资讯
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=23
+#EXTINF:-1 group-title="港澳台综合,#genre#",HOYTV
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=24
+#EXTINF:-1 group-title="港澳台综合,#genre#",港台电视31
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=26
+#EXTINF:-1 group-title="港澳台综合,#genre#",港台电视32
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=27
+#EXTINF:-1 group-title="港澳台综合,#genre#",TVBS欢乐台
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=57
+#EXTINF:-1 group-title="港澳台综合,#genre#",纬来体育
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=73
+#EXTINF:-1 group-title="港澳台综合,#genre#",纬来日本
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=74
+#EXTINF:-1 group-title="港澳台综合,#genre#",纬来育乐
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=75
+#EXTINF:-1 group-title="港澳台综合,#genre#",ELEVEN1
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=76
+#EXTINF:-1 group-title="港澳台综合,#genre#",ELEVEN2
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=77
+#EXTINF:-1 group-title="港澳台综合,#genre#",爱尔达体育1
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=79
+#EXTINF:-1 group-title="港澳台综合,#genre#",爱尔达体育2
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=80
+#EXTINF:-1 group-title="港澳台综合,#genre#",爱尔达体育3
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=81
 #EXTINF:-1 group-title="港澳台综合,#genre#",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",星卫电影台
@@ -1328,6 +1364,8 @@ http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=61
 http://23.237.10.66:16334
 #EXTINF:-1 group-title="港澳台综合,#genre#",民视2
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=62
+#EXTINF:-1 group-title="港澳台综合,#genre#",华视
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=63
 #EXTINF:-1 group-title="港澳台综合,#genre#",中视新闻1
 http://2023.stream-link.org/live/926790469
 #EXTINF:-1 group-title="港澳台综合,#genre#",中视新闻2
@@ -1348,6 +1386,8 @@ http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=53
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=54
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
 http://2023.stream-link.org/live/401131254
+#EXTINF:-1 group-title="港澳台综合,#genre#",TVBS HD
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=56
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",三立LIVE
