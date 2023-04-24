@@ -1205,6 +1205,8 @@ https://pull-l3-cny.douyincdn.com/live/stream-19882782023041723016.m3u8?by=yesli
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠财经体育资讯
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=7
+#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻
+http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=6
 #EXTINF:-1 group-title="港澳台综合,#genre#",香港有线18台
 http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=12
 #EXTINF:-1 group-title="港澳台综合,#genre#",香港有线体育台
@@ -1412,10 +1414,6 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台1
-https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
-#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台2
-http://2022.stream-link.org/live/1488149502
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森超视
