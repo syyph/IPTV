@@ -1297,8 +1297,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 group-title="上海综合,#genre#",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",上视新闻
-https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 group-title="上海综合,#genre#",游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",生活时尚
