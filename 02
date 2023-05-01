@@ -973,34 +973,27 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 #EXTINF:-1 group-title="港澳台综合",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳台综合",星空卫视
+http://lu1.cc/itv/php/gudou.php?id=xkws
 #EXTINF:-1 group-title="港澳台综合",凤凰香港
 http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 group-title="港澳台综合",翡翠台1
 https://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
 #EXTINF:-1 group-title="港澳台综合",翡翠台2
-http://162.19.247.76:22222/live/tvbfc/index.m3u8
-#EXTINF:-1 group-title="港澳台综合",翡翠台3
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="港澳台综合",华丽台
 http://r.jdshipin.com/thuYX
-#EXTINF:-1 group-title="港澳台综合",明珠台1
+#EXTINF:-1 group-title="港澳台综合",明珠台
 http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1 group-title="港澳台综合",明珠台2
-https://pull-l3-cny.douyincdn.com/live/stream-19742372023042723128.m3u8
-#EXTINF:-1 group-title="港澳台综合",J21
-https://pull-l3-cny.douyincdn.com/live/stream-19825832023042700451.m3u8?by=yeslivetv_com
-#EXTINF:-1 group-title="港澳台综合",J22
-http://162.19.247.76:22222/live/tvbj2/index.m3u8
-#EXTINF:-1 group-title="港澳台综合",J23
+#EXTINF:-1 group-title="港澳台综合",J2
+http://andychuxdd.asuscomm.com:9981/stream/channelid/1563650536?profile=pass
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 group-title="港澳台综合",CN卡通
 https://pull-l3-cny.douyincdn.com/live/stream-1121752023041821494.m3u8
 #EXTINF:-1 group-title="港澳台综合",无线新闻
 https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8?by=yeslivetv_com
-#EXTINF:-1 group-title="港澳台综合",Viu TV
-https://pull-l3-cny.douyincdn.com/live/stream-19632852023043013455.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合",纬来体育
-https://pull-l3-cny.douyincdn.com/live/stream-1524652023042620263.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/stream-1356252023050112032.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合",财经体育资讯
 https://pull-l3-cny.douyincdn.com/live/stream-15682782023042400546.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合",ELEVEN1
@@ -1012,7 +1005,7 @@ https://pull-l3-cny.douyincdn.com/live/stream-1153982023042815316.m3u8?by=yesliv
 #EXTINF:-1 group-title="港澳台综合",TVBS新闻
 https://pull-l3-cny.douyincdn.com/live/stream-1183172023042701243.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合",TVBS HD
-https://pull-l3-cny.douyincdn.com/live/stream-1192872023042701218.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/stream-1235472023043020419.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合",爱尔达体育2
 https://pull-l3-cny.douyincdn.com/live/stream-1121752023011921423.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合",好莱坞电影
